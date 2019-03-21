@@ -6,6 +6,6 @@
         "noImplicitAny": true
     },
     "include": [
-        "app/ts/**/*", "alurabank/app/ts/controllers/NegociacaoController.ts"
+        "app/ts/**/*"
     ]
 }
